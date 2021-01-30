@@ -1,5 +1,5 @@
 # Vehicle Counter
- This is a semester project of 7th semester of DIP (Digital Image Processing) developed in python. It works on a video and counts the number of vehicle passing
+ This is a semester project of 7th semester for DIP (Digital Image Processing) course developed in python. It works on a video and counts the number of vehicle passing
  through a line in the centre of screen. It works on blop technique and uses Open Cv for it.
  
 You need these libraries installed in your system.
